@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/style.scss to edit this template
+*/
+/*
+    Created on : 7/07/2024, 11:30:24 p. m.
+    Author     : Jean Gonzalez
+*/
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    
+    @media only screen and (max-width: 600px) {
+        display: block;
+    }
+    
+    &-item {
+        margin-top: 0;
+    
+        @media only screen and (max-width: 600px) {
+            margin-top: 3rem;
+        }
+    }
+}

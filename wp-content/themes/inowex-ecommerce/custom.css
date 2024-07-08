@@ -1,0 +1,1 @@
+.products{display:flex;justify-content:space-between;gap:3rem}@media only screen and (max-width: 600px){.products{display:block}}.products-item{margin-top:0}@media only screen and (max-width: 600px){.products-item{margin-top:3rem}}/*# sourceMappingURL=custom.css.map */

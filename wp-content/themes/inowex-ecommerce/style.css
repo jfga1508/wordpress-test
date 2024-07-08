@@ -1,0 +1,12 @@
+/*
+Theme Name:     inoWex Ecommerce
+Theme URI:      http://inowex.com/
+Description:    inoWex Ecommerce theme 
+Author:         Jean Francois Gonzalez Arango
+Author URI:     https://www.facebook.com/inoWex
+Template:       twentytwentyfour
+Version:        2.0.0
+*/
+
+@import url("../twentytwentyfour/style.css");
+@import "custom.css";
